@@ -25,5 +25,5 @@ python -m pytest
 
 Getting the predections
 ```bash
-python traffic_signal.py
+python app/traffic_signal.py
 ```
